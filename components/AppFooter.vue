@@ -23,7 +23,10 @@
           >Tailwind.css</a
         >
         and hosted on my
-        <NuxtLink to="/home-network" class="footer-link">home network </NuxtLink
+        <NuxtLink
+          to="https://martinfrackerjr.com/home-network"
+          class="footer-link"
+          >home network </NuxtLink
         >. <br />
         The source code is available on
         <a

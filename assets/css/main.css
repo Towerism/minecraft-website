@@ -73,7 +73,9 @@ ul {
   overflow: hidden;
 }
 
-ol, ul, p {
+ol,
+ul,
+p {
   @apply mb-8;
 }
 
