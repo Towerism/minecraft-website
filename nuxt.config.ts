@@ -12,7 +12,4 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
   modules: ["@nuxt/content", "@nuxtjs/tailwindcss"],
   css: ["/assets/css/main.css"],
-  content: {
-    contentHead: false,
-  },
 });

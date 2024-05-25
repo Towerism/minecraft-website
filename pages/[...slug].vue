@@ -15,9 +15,17 @@
     >
       <div class="flex flex-col justify-center">
         <ContentDoc />
-        <ContentDoc path="/_call-to-action" />
+        <ContentRenderer :value="data" />
       </div>
     </main>
   </div>
   <AppFooter />
 </template>
+
+<script setup>
+const { data } = await useAsyncData("page-data", () =>
+  queryContent().where({ _path: "/_call-to-action" }).findOne(),
+);
+
+console.log(data);
+</script>
