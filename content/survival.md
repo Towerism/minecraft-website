@@ -14,8 +14,8 @@ Are you ready to embark on an unforgettable journey? Look no further! Our custom
 6. 🎉 **Rewards Galore**:
 
    - 🕒 _Hourly Bonuses_: Log in regularly to claim your hourly goodies. Diamonds, enchanted gear, or rare artifacts—it’s a surprise every time!
-   - 🌞 _Daily Treasures_: Don’t miss out on daily rewards. The more consecutive days you play, the better the loot!
-   - 🌟 _Weekly Challenges_: Rise to the challenge and earn exclusive rewards. Only the bravest survive these trials.
+   - 🌞 _Daily Loot_: Don’t miss out on daily rewards. The more consecutive days you play, the better the loot!
+   - 🌟 _Weekly Treasures_: Brace yourself for the weekly windfall! From ancient relics to mythical gear, our weekly rewards are nothing short of epic. Unleash your inner adventurer and claim what’s rightfully yours!
 
 7. 📦 **Deliveries**: Turn your hoarded odd items into rewards! Submit those quirky finds—like that lonely leather boot or half-broken wooden sword—and receive sweet surprises in return.
 8. 🎲 **Feeling Lucky? Try the Lottery!**: Purchase a lottery ticket and cross your fingers. Who knows? You might win big and become the talk of the server!
