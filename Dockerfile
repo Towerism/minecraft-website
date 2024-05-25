@@ -10,7 +10,7 @@ COPY . .
 
 RUN pnpm build
 
-FROM --platform=linux/arm64 node:22-alpine
+FROM node:22-alpine
 COPY --from=build /usr/src/app/.output /app
 WORKDIR /app
 
