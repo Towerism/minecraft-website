@@ -5,9 +5,5 @@ services:
     image: martinfjr/minecraft-website:latest
     pull_policy: always
     restart: unless-stopped
-    networks:
-      - web-proxy-net
-
-networks:
-  web-proxy-net:
-    external: true
+    ports:
+      - 27180:80
